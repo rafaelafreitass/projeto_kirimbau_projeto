@@ -9,7 +9,10 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"cenários","folderPath":"folders/cenários.yy","name":"cenários","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"personagens","folderPath":"folders/personagens.yy","name":"personagens","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -20,8 +23,6 @@
   "name":"kirimbau_",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"cenario1","path":"sprites/cenario1/cenario1.yy",},},
-    {"id":{"name":"sprite_protagonista","path":"sprites/sprite_protagonista/sprite_protagonista.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
