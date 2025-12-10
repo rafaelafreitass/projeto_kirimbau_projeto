@@ -20,8 +20,8 @@
   "name":"kirimbau_",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"cenario","path":"sprites/cenario/cenario.yy",},},
-    {"id":{"name":"personagens","path":"sprites/personagens/personagens.yy",},},
+    {"id":{"name":"cenario1","path":"sprites/cenario1/cenario1.yy",},},
+    {"id":{"name":"sprite_protagonista","path":"sprites/sprite_protagonista/sprite_protagonista.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

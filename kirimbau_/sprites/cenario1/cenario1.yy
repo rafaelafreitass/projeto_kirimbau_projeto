@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"personagens",
+  "%Name":"cenario1",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":723,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":964,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"08fd73c2-7b84-4011-bdbc-0cf661fde4a2","name":"08fd73c2-7b84-4011-bdbc-0cf661fde4a2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"39b15560-5fdf-4697-aae0-cad9df994965","name":"39b15560-5fdf-4697-aae0-cad9df994965","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":724,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"25e52543-ea53-4e77-a398-32678892087c","blendMode":0,"displayName":"default","isLocked":false,"name":"25e52543-ea53-4e77-a398-32678892087c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6fcb76ad-95ba-4e01-b03c-f48b22a1feb0","blendMode":0,"displayName":"default","isLocked":false,"name":"6fcb76ad-95ba-4e01-b03c-f48b22a1feb0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"personagens",
+  "name":"cenario1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"personagens",
+    "%Name":"cenario1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"personagens",
+    "name":"cenario1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08fd73c2-7b84-4011-bdbc-0cf661fde4a2","path":"sprites/personagens/personagens.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9ea1fcd4-0c78-44d7-8cd7-f315acf73f91","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"39b15560-5fdf-4697-aae0-cad9df994965","path":"sprites/cenario1/cenario1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"08c0c0ec-8a0a-4ec3-947b-947330c2525f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":965,
 }
