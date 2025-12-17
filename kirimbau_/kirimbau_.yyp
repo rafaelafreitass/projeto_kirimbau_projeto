@@ -32,6 +32,7 @@
     {"id":{"name":"IMG_20251210_WA0015","path":"sprites/IMG_20251210_WA0015/IMG_20251210_WA0015.yy",},},
     {"id":{"name":"splayer_idle","path":"sprites/splayer_idle/splayer_idle.yy",},},
     {"id":{"name":"splayer_run","path":"sprites/splayer_run/splayer_run.yy",},},
+    {"id":{"name":"splayer_up","path":"sprites/splayer_up/splayer_up.yy",},},
     {"id":{"name":"sprite_2","path":"sprites/sprite_2/sprite_2.yy",},},
   ],
   "resourceType":"GMProject",

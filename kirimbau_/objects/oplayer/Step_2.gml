@@ -5,6 +5,7 @@ if (_col)
 {
 if (velh > 0)
 {
+	x = _col.bbox_left;
 }
 
 if(velh < 0)
