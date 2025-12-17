@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"sprite2",
+  "%Name":"cenario3_",
   "eventList":[],
   "managed":true,
-  "name":"sprite2",
+  "name":"cenario3_",
   "overriddenProperties":[],
   "parent":{
     "name":"objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_2",
-    "path":"sprites/sprite_2/sprite_2.yy",
+    "name":"cenario3",
+    "path":"sprites/cenario3/cenario3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

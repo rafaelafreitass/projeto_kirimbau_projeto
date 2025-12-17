@@ -1,5 +1,5 @@
 
-var _col = instance_place(x + velh, y, sprite2);
+var _col = instance_place(x + velh, y, cenario1_);
 
 if (_col)
 {
@@ -16,7 +16,7 @@ velh = 0;
 
 x+=velh;
 
-var _col = instance_place(x, y + velv, sprite2);
+var _col = instance_place(x, y + velv, cenario1_);
 if(_col)
 {
 	if(velv > 0)
