@@ -11,9 +11,9 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"cenário","folderPath":"folders/cenário.yy","name":"cenário","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objetos","folderPath":"folders/objetos.yy","name":"objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"personagens","folderPath":"folders/personagens.yy","name":"personagens","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
@@ -30,9 +30,6 @@
     {"id":{"name":"cenario2_","path":"objects/cenario2_/cenario2_.yy",},},
     {"id":{"name":"cenario3_","path":"objects/cenario3_/cenario3_.yy",},},
     {"id":{"name":"cenario4_","path":"objects/cenario4_/cenario4_.yy",},},
-    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
-    {"id":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},},
-    {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"oplayer","path":"objects/oplayer/oplayer.yy",},},
     {"id":{"name":"room1","path":"rooms/room1/room1.yy",},},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},},
